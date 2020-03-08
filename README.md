@@ -1,4 +1,4 @@
-# PyTorch Dslam-omni
+# PyTorch DOmniSlam
 PyTorch deep Slam for Omni-directional cams.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
