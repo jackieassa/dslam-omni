@@ -1,5 +1,5 @@
-# PyTorch Template Project
-PyTorch deep learning project made easy.
+# PyTorch Dslam-omni
+PyTorch deep Slam for Omni-directional cams.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
